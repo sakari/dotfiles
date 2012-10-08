@@ -1,0 +1,10 @@
+[user]
+	name = Sakari Jokinen
+	email = sakariij@gmail.com
+[color]
+	branch = auto
+	diff = auto
+	status = auto
+[core]
+	editor = emacs
+	excludesfile = ~/.gitignore
