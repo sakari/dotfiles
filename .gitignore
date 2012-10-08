@@ -1,3 +1,11 @@
-*~
-dist/
-cabal-dev/
+.ssh/
+.bash_history
+.bash_logout
+src/
+.Xauthority
+.cache/
+.dbus/
+.vbox_version
+.veewee_version
+.sudo_as_admin_successful
+postinstall.sh
