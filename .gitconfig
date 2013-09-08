@@ -10,3 +10,7 @@
 [core]
 	editor = emacs
 	excludesfile = ~/.gitignore-global
+[alias]
+	up = pull --rebase
+	graph = log --graph --oneline
+
